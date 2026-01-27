@@ -16,6 +16,10 @@ li {
   border: 6px dashed white; 
 }
 
+.bekezdés{
+  font-weight: bold;
+}
+
 footer {
   background-color: #2b2a2a;
   padding-top: 25px;
